@@ -10,9 +10,6 @@ import android.view.View;
 import android.graphics.PorterDuff;
 import android.graphics.PorterDuffXfermode;
 import android.util.TypedValue;
-/**
- * Created by PROGRAMMER on 10/5/2016.
- */
 import android.content.Context;
 import android.util.AttributeSet;
 public class DrawingView extends View {
