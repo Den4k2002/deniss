@@ -1,4 +1,4 @@
-package space.neugomonov.paintdenchik;
+package space.bersenev.paintdenchik;
 
 import org.junit.Test;
 
