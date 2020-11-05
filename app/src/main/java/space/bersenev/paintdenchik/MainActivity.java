@@ -1,4 +1,4 @@
-package space.neugomonov.paintdenchik;
+package space.bersenev.paintdenchik;
 
 import android.os.Bundle;
 import java.util.UUID;
